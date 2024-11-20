@@ -1,0 +1,13 @@
+@media(max-width:992px){
+    .links{
+        display: none;
+    }
+    .btn,.bar{
+        display: inline-block;
+        margin-right: 10px;
+    }
+    .bar i{
+        color: #fff;
+    }
+    
+}
