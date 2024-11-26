@@ -16,6 +16,7 @@
 .links{
     display: inline;
     position: relative;
+   
 }
 .bar{
     display:none;
@@ -41,7 +42,7 @@
       top: 100%;
     left:0;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-    transition: .45s;
+
     
    
 }
@@ -49,6 +50,7 @@
     position: relative;
      padding: 13px 8px;
     border-bottom: 1px solid #fff;
+
    
 }
 .dropdown-links a{
@@ -76,7 +78,6 @@
     position: absolute;
     top: 10px;
     left: 127px;
-    transition: .5s;
   
 }
 .dropdown-links:hover .sub-menu{
